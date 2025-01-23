@@ -343,7 +343,8 @@ sudo systemctl restart httpd
    ```text
    http://your-ec2-public-ip
    ```
-![image](https://github.com/user-attachments/assets/b0a8d474-1357-49d8-81ff-264f1885e59a)
+![apache pic](https://github.com/user-attachments/assets/680b2fe1-25bd-4c93-a60e-d0819f3b95d1)
+
 
 You should see the message "Welcome to My Website Hosted on Apache! 🚀".
 
